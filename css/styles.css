@@ -1,3 +1,20 @@
-nav {
-  background-color: #eee;
+ .navbar-default {
+   background-color: #FFF;
+ }
+
+ .jumbotron {
+   background-image: url("../img/hero.jpg");
+   background-size: cover;
+   background-position: center;
+   margin-top: 10em;
+ }
+
+ header{
+    color: #FFF;
+    text-align: center;
+    font-size: 200%
+}
+
+ h3{
+    text-align: center;
 }
